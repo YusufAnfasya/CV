@@ -1,0 +1,56 @@
+.bio{
+    text-align: center;
+    padding: 8%;
+    padding-top: 0%;
+}
+
+.foto{
+    padding: 6%;
+    text-align: center;
+}
+
+.pendidikan{
+    text-align: center;
+    padding: 3%;
+}
+
+.sd{
+    margin-left: 10%;
+    margin-right: 50%;
+}
+
+.smp{
+    margin-left: 20%;
+    margin-right: 40%;
+}
+
+.sma{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.kuliah{
+    margin-left: 40%;
+    margin-right: 20%;
+}
+
+.content{
+    position: relative;
+  
+    width: 1000px;
+    height: fit-content;
+
+    margin: auto;
+    margin-top: 5%;
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    box-shadow: 10px 10px 10px rgba(47, 47, 47, 0.25);
+    border-radius: 40px;
+    filter: opacity(90%);
+}
+
+body
+{
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
